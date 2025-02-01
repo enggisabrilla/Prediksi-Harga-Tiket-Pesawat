@@ -6,7 +6,8 @@ Penelitian tentang analisis prediksi harga pesawat didorong oleh beberapa alasan
 
 
 ## Pengumpulan Data
-Pada penelitian ini digunakan dataset Prediksi Harga Tiket Pesawat yang terdokumentasi pada platform kaggle.com detail dari dataset tersebut yaitu : 
+
+Pada penelitian ini digunakan dataset Prediksi Harga Tiket Pesawat yang terdokumentasi pada platform kaggle.com https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction detail dari dataset tersebut yaitu : 
 
 a.	Dataset terdiri dari 300.153 records dengan 12 fitur.
 
