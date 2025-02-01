@@ -7,11 +7,17 @@ Penelitian tentang analisis prediksi harga pesawat didorong oleh beberapa alasan
 
 ## Pengumpulan Data
 Pada penelitian ini digunakan dataset Prediksi Harga Tiket Pesawat yang terdokumentasi pada platform kaggle.com detail dari dataset tersebut yaitu : 
+
 a.	Dataset terdiri dari 300.153 records dengan 12 fitur.
+
 b.	Dataset terdiri dari :
+
 •	8 data kategori dengan tipe data object yaitu airline, flight, source_city, departure_time, stops, arrival_time, destination_city, class.
+
 •	4 data numerik dengan satu type data float64 yaitu duration dan 3 tipe data int 4 yaitu unnamed, days_left, dan price.
+
 c.	Data sekunder dikumpulkan dari situs web Easy My Trip. 
+
 d.	Data dikumpulkan selama 50 hari, dari 11 Februari hingga 31 Maret 2022.
 
 ## Pengolahan Data dengan Metode Exploratory Data Analysis (EDA)
